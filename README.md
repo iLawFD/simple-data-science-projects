@@ -4,5 +4,5 @@ Simple Data science projects in python using pandas & numpy
 
 
 # AnimeSuggestions:
-- Input : the user desired genre and select if they want anime or TV Series
-- output: Top 5 animes or TV Series of the desired genre based on the rating column 
+- Input : the user has to select a genre(e.g Drama) and select wether they want animes or movies
+- output: Top 5 animes or moives of the desired genre based on the rating column 
