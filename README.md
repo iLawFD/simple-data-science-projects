@@ -8,4 +8,4 @@ Simple Data science projects in python using pandas & numpy
 - output: Top 5 animes or moives of the desired genre based on the rating column 
 
 
--under development-
+
