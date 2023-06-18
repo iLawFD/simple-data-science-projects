@@ -1,4 +1,4 @@
-![Screenshot (15)](https://github.com/iLawFD/simple-data-science-projects/assets/88871860/e86a6787-cbbb-437f-b03a-0f4b1ee1dee0)![image](https://github.com/iLawFD/simple-data-science-projects/assets/88871860/69ef37ab-2b50-49e8-83b7-81707933f934)# simple-data-science-projects
+
 In this rep i will upload Simple Data science projects in python using pandas & numpy in order to enhace my skills for the data prepretion phae, which is the most important phase in the data science cycle.
 
 
