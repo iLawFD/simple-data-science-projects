@@ -4,7 +4,7 @@
 
 
 
-# Sales related problems
+# File1: Sales related problems
 This file contain 4 sale related problems and i solved them in the file and explaned each step via the markdown cells
 
 ## Task1:
@@ -40,7 +40,7 @@ This file contain 4 sale related problems and i solved them in the file and expl
 
 (advice: never hesitate to add a column to your data frame because it might makes work much easier)
 
-# AnimeSuggestions:
+# File2: AnimeSuggestions:
 - Input : the user has to select a genre(e.g Drama) and select wether they want animes or movies
 - output: Top 5 animes or moives of the desired genre based on the rating column 
 
