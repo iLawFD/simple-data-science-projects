@@ -40,7 +40,22 @@ This file contain 4 sale related problems and i solved them in the file and expl
 
 (advice: never hesitate to add a column to your data frame because it might makes work much easier)
 
-# File2: AnimeSuggestions:
+
+
+
+
+
+# File2 : Web Scrabing
+-Web Scrabing is a very handy tools for data science as not all data from the web can be obtained easily. Therefore, learning to process data from the web is important
+
+In this project i will collect info about netflix's data (specifically the sales in each date from 15 to 21) from an informitive URL and store them in a dataframe ( after obtainign the data frame object we can anaylize it )
+
+And this is the data frame that i obtained 
+
+![Screenshot (22)](https://github.com/iLawFD/simple-data-science-projects/assets/88871860/edc004a8-eb16-4a0e-bcff-4a7f5e4fbcc6)
+
+
+# File3: AnimeSuggestions:
 - Input : the user has to select a genre(e.g Drama) and select wether they want animes or movies
 - output: Top 5 animes or moives of the desired genre based on the rating column 
 
