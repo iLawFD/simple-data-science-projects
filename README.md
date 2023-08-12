@@ -1,5 +1,5 @@
 
-# -In this rep i will upload Simple Data science projects in python using pandas & numpy in order to enhace my skills for the data prepretion phase, which is the most important phase in the data science cycle.-
+-In this rep i will upload Simple Data science projects in python using pandas & numpy in order to enhace my skills for the data prepretion phase, which is the most important phase in the data science cycle.-
 
 
 
