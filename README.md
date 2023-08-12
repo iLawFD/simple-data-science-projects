@@ -4,7 +4,7 @@
 
 
 
-# File1: Sales related problems
+# Project1: Sales related problems
 This file contain 4 sale related problems and i solved them in the file and explaned each step via the markdown cells
 
 ## Task1:
@@ -45,7 +45,7 @@ This file contain 4 sale related problems and i solved them in the file and expl
 
 
 
-# File2 : Web Scrabing
+# Project2 : Web Scrabing
 -Web Scrabing is a very handy tools for data science as not all data from the web can be obtained easily. Therefore, learning to process data from the web is important
 
 In this project i will collect info about netflix's data (specifically the sales in each date from 15 to 21) from an informitive URL and store them in a dataframe ( after obtainign the data frame object we can anaylize it )
